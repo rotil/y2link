@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# useage 2link.py https://www.youtube.com/watch?v=DRR9fOXkfRE
+# useage python3 2link.py https://www.youtube.com/watch?v=DRR9fOXkfRE
 from urllib import urlopen
 from urlparse import parse_qs, urlparse
 import sys
